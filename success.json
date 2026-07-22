@@ -1,62 +1,410 @@
 [
   {
     "S.No": "1",
-    "Quote": "Be yourself and you can be anything "
+    "Quote": "Success starts where excuses end."
   },
   {
     "S.No": "2",
-    "Quote": "Your attitude determines your direction"
+    "Quote": "Dream big, work quietly, and let results make the noise."
   },
   {
     "S.No": "3",
-    "Quote": "Start Somewhere"
+    "Quote": "Every small step today builds tomorrow's victory."
   },
   {
     "S.No": "4",
-    "Quote": "Success is not final; failure is not fatal: It is the courage to continue that counts."
+    "Quote": "Consistency beats talent when talent stops trying."
   },
   {
     "S.No": "5",
-    "Quote": "The first step toward success is taken when you refuse to be a captive of the environment in which you first find yourself."
+    "Quote": "Your future is created by what you do now."
   },
   {
     "S.No": "6",
-    "Quote": "It’s not whether you get knocked down, it’s whether you get up."
+    "Quote": "Progress is more powerful than perfection."
   },
   {
     "S.No": "7",
-    "Quote": "The question isn’t who is going to let me, it’s who is going to stop me."
+    "Quote": "Discipline is the bridge between goals and achievements."
   },
   {
     "S.No": "8",
-    "Quote": "It is better to fail in originality than to succeed in imitation."
+    "Quote": "Keep showing up, even when nobody is watching."
   },
   {
     "S.No": "9",
-    "Quote": "Success is the sum of small efforts, repeated day-in and day-out."
+    "Quote": "The hardest days often create the strongest people."
   },
   {
     "S.No": "10",
-    "Quote": "Don't be afraid to give up the good to go for the great."
+    "Quote": "Turn setbacks into setups for success."
   },
   {
     "S.No": "11",
-    "Quote": "I find that the harder I work, the more luck I seem to have."
+    "Quote": "Confidence grows through action, not waiting."
   },
   {
     "S.No": "12",
-    "Quote": "Whether you think you can or think you can’t, you’re right."
+    "Quote": "One focused hour can change your future."
   },
   {
     "S.No": "13",
-    "Quote": "There are two types of people who will tell you that you cannot make a difference in this world: those who are afraid to try and those who are afraid you will succeed."
+    "Quote": "Success belongs to those who refuse to give up."
   },
   {
     "S.No": "14",
-    "Quote": "You are never too old to set another goal or to dream a new dream."
+    "Quote": "Every expert was once a beginner."
   },
   {
     "S.No": "15",
-    "Quote": "Success is focusing the full power of all you are on what you have a burning desire to achieve."
+    "Quote": "Patience and persistence always travel together."
+  },
+  {
+    "S.No": "16",
+    "Quote": "Great things take time and steady effort."
+  },
+  {
+    "S.No": "17",
+    "Quote": "Be proud of how far you've come."
+  },
+  {
+    "S.No": "18",
+    "Quote": "Stay humble while chasing greatness."
+  },
+  {
+    "S.No": "19",
+    "Quote": "Small wins lead to big victories."
+  },
+  {
+    "S.No": "20",
+    "Quote": "The only limit is the one you accept."
+  },
+  {
+    "S.No": "21",
+    "Quote": "Hard work writes the story luck cannot."
+  },
+  {
+    "S.No": "22",
+    "Quote": "Believe in your progress, even if it's slow."
+  },
+  {
+    "S.No": "23",
+    "Quote": "Your mindset shapes your destination."
+  },
+  {
+    "S.No": "24",
+    "Quote": "Success loves prepared minds."
+  },
+  {
+    "S.No": "25",
+    "Quote": "Focus on solutions, not excuses."
+  },
+  {
+    "S.No": "26",
+    "Quote": "Every sunrise is another chance to improve."
+  },
+  {
+    "S.No": "27",
+    "Quote": "Be stronger than your strongest excuse."
+  },
+  {
+    "S.No": "28",
+    "Quote": "Growth begins outside your comfort zone."
+  },
+  {
+    "S.No": "29",
+    "Quote": "Don't stop until you're proud."
+  },
+  {
+    "S.No": "30",
+    "Quote": "Turn your passion into your power."
+  },
+  {
+    "S.No": "31",
+    "Quote": "Your effort never goes to waste."
+  },
+  {
+    "S.No": "32",
+    "Quote": "Success is earned one habit at a time."
+  },
+  {
+    "S.No": "33",
+    "Quote": "Keep learning and keep moving."
+  },
+  {
+    "S.No": "34",
+    "Quote": "Great achievements begin with brave decisions."
+  },
+  {
+    "S.No": "35",
+    "Quote": "Be patient with the process."
+  },
+  {
+    "S.No": "36",
+    "Quote": "Your consistency will surprise you."
+  },
+  {
+    "S.No": "37",
+    "Quote": "Failure is feedback, not the finish line."
+  },
+  {
+    "S.No": "38",
+    "Quote": "Stay committed when motivation fades."
+  },
+  {
+    "S.No": "39",
+    "Quote": "Today's sacrifice becomes tomorrow's reward."
+  },
+  {
+    "S.No": "40",
+    "Quote": "Choose progress over comfort."
+  },
+  {
+    "S.No": "41",
+    "Quote": "Success grows where discipline lives."
+  },
+  {
+    "S.No": "42",
+    "Quote": "The best investment is improving yourself."
+  },
+  {
+    "S.No": "43",
+    "Quote": "Keep your vision bigger than your fear."
+  },
+  {
+    "S.No": "44",
+    "Quote": "Work until your dreams recognize you."
+  },
+  {
+    "S.No": "45",
+    "Quote": "Every challenge hides an opportunity."
+  },
+  {
+    "S.No": "46",
+    "Quote": "Success is built in ordinary days."
+  },
+  {
+    "S.No": "47",
+    "Quote": "Never underestimate daily improvement."
+  },
+  {
+    "S.No": "48",
+    "Quote": "Rise above doubt with determination."
+  },
+  {
+    "S.No": "49",
+    "Quote": "The journey is shaping your strength."
+  },
+  {
+    "S.No": "50",
+    "Quote": "Your attitude decides your altitude."
+  },
+  {
+    "S.No": "51",
+    "Quote": "Stay focused on what truly matters."
+  },
+  {
+    "S.No": "52",
+    "Quote": "Win the morning, win the day."
+  },
+  {
+    "S.No": "53",
+    "Quote": "Believe before others believe in you."
+  },
+  {
+    "S.No": "54",
+    "Quote": "Your future self will thank you."
+  },
+  {
+    "S.No": "55",
+    "Quote": "Nothing changes until you do."
+  },
+  {
+    "S.No": "56",
+    "Quote": "Stay hungry for growth."
+  },
+  {
+    "S.No": "57",
+    "Quote": "Dreams demand dedication."
+  },
+  {
+    "S.No": "58",
+    "Quote": "Make discipline your daily habit."
+  },
+  {
+    "S.No": "59",
+    "Quote": "Be fearless in the pursuit of progress."
+  },
+  {
+    "S.No": "60",
+    "Quote": "Success is a collection of small efforts."
+  },
+  {
+    "S.No": "61",
+    "Quote": "Every mistake teaches a valuable lesson."
+  },
+  {
+    "S.No": "62",
+    "Quote": "Turn pressure into performance."
+  },
+  {
+    "S.No": "63",
+    "Quote": "Greatness begins with one decision."
+  },
+  {
+    "S.No": "64",
+    "Quote": "Keep moving, even at a slow pace."
+  },
+  {
+    "S.No": "65",
+    "Quote": "Your actions introduce your ambition."
+  },
+  {
+    "S.No": "66",
+    "Quote": "Every goal deserves your best effort."
+  },
+  {
+    "S.No": "67",
+    "Quote": "Work with purpose every single day."
+  },
+  {
+    "S.No": "68",
+    "Quote": "Persistence creates possibilities."
+  },
+  {
+    "S.No": "69",
+    "Quote": "Build habits that build your future."
+  },
+  {
+    "S.No": "70",
+    "Quote": "Stay positive through every challenge."
+  },
+  {
+    "S.No": "71",
+    "Quote": "Your breakthrough may be one step away."
+  },
+  {
+    "S.No": "72",
+    "Quote": "Don't compare; create your own path."
+  },
+  {
+    "S.No": "73",
+    "Quote": "Success starts with self-belief."
+  },
+  {
+    "S.No": "74",
+    "Quote": "Give your best before expecting the best."
+  },
+  {
+    "S.No": "75",
+    "Quote": "One promise kept to yourself changes everything."
+  },
+  {
+    "S.No": "76",
+    "Quote": "Stay determined when others quit."
+  },
+  {
+    "S.No": "77",
+    "Quote": "The climb is worth the view."
+  },
+  {
+    "S.No": "78",
+    "Quote": "Strong habits create strong futures."
+  },
+  {
+    "S.No": "79",
+    "Quote": "Lead with courage and confidence."
+  },
+  {
+    "S.No": "80",
+    "Quote": "Never stop becoming better."
+  },
+  {
+    "S.No": "81",
+    "Quote": "Keep your standards higher than your excuses."
+  },
+  {
+    "S.No": "82",
+    "Quote": "Great journeys begin with one brave step."
+  },
+  {
+    "S.No": "83",
+    "Quote": "Focus fuels achievement."
+  },
+  {
+    "S.No": "84",
+    "Quote": "Be patient, your time is coming."
+  },
+  {
+    "S.No": "85",
+    "Quote": "Your resilience is your greatest strength."
+  },
+  {
+    "S.No": "86",
+    "Quote": "Do more than what is expected."
+  },
+  {
+    "S.No": "87",
+    "Quote": "Success is silent before it becomes visible."
+  },
+  {
+    "S.No": "88",
+    "Quote": "Stay consistent through every season."
+  },
+  {
+    "S.No": "89",
+    "Quote": "Work smart, stay kind, and never stop learning."
+  },
+  {
+    "S.No": "90",
+    "Quote": "Every day is another opportunity to improve."
+  },
+  {
+    "S.No": "91",
+    "Quote": "Turn dreams into plans and plans into reality."
+  },
+  {
+    "S.No": "92",
+    "Quote": "The best view comes after the hardest climb."
+  },
+  {
+    "S.No": "93",
+    "Quote": "Choose courage over comfort."
+  },
+  {
+    "S.No": "94",
+    "Quote": "Keep chasing excellence, not approval."
+  },
+  {
+    "S.No": "95",
+    "Quote": "Believe, begin, and become."
+  },
+  {
+    "S.No": "96",
+    "Quote": "Every effort plants a seed for success."
+  },
+  {
+    "S.No": "97",
+    "Quote": "Be unstoppable because of your discipline."
+  },
+  {
+    "S.No": "98",
+    "Quote": "Success is the reward for staying committed."
+  },
+  {
+    "S.No": "99",
+    "Quote": "Your story is still being written."
+  },
+  {
+    "S.No": "100",
+    "Quote": "Keep climbing; the peak is closer than it seems."
+  },
+  {
+    "S.No": "101",
+    "Quote": "Make today count."
+  },
+  {
+    "S.No": "102",
+    "Quote": "Success is not luck; it's a lifestyle."
   }
 ]
